@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 [![SS's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshenshuo)](https://github.com/sshenshuo/github-readme-stats)
 ![SS's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshenshuo&show_icons=true)
-![SS's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshenshuoa&show_icons=true&theme=radical)
+![SS's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshenshuo&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sshenshuo&repo=github-readme-stats)](https://github.com/sshenshuo/github-readme-stats)
